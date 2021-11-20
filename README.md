@@ -4,5 +4,5 @@
 
 **Botun Kurulumu İçin Discord Developers'a Girip Yeni Bir Bot Oluşturup O Botun Tokenini Kopyalayıp `.env` Dosyasının İçinde Belirttiğim Yere Yapıştırmalısınız.**
 
-- **Not :** `Eğer Bir Sorun Oluşursa Discord Üzerinden Bana Yazabilirsiniz!`
-- **Discord :** `Łôe🍁#3151`
+-
+
